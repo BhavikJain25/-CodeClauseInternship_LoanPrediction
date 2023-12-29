@@ -1,2 +1,2 @@
-# -CodeClauseInternship_LoanPrediction
+# CodeClauseInternship_LoanPrediction
 Loan Prediction
